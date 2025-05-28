@@ -63,9 +63,9 @@ $username = isset($_SESSION['username']) ? $_SESSION['username'] : 'Usuário des
 
 <body class="bg-light">
   <!--NAV PRINCIPAL -->
-  <nav class="navbar navbar-expand-sm navbar-dark shadow shadow-sm" id="qs-main-header" style="background-size: 100% 100%;background-image:url('imagens/backgroundNav.jpg');">
+  <nav class="navbar navbar-expand-sm navbar-dark shadow shadow-sm" id="qs-main-header" style="background-size: 100% 100%;background-image:url('');">
   <div class="container">
-      <a id="qs-modules-link" href="home.php" class="navbar-brand" onclick="$('#qs-modules').show(); $('#qs-modules-link').addClass('active');"><img src="https://qunitserver.pt-fk.kabi.portugal.fresenius.de/apps/ep/assets/images/qunitsimbol_v4.3.png" width="30" height="30" class="d-inline-block align-top" alt=""></a>
+      <a id="qs-modules-link" href="home.php" class="navbar-brand" onclick="$('#qs-modules').show(); $('#qs-modules-link').addClass('active');"><img src="""></a>
       <a href="home.php" class="navbar-brand">Painel Administrativo</a>
 
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -133,9 +133,9 @@ $username = isset($_SESSION['username']) ? $_SESSION['username'] : 'Usuário des
 
     <div class="logo" style="position: absolute; top: 50%; left: 49%; transform: translate(-50%, -50%);">
       <!-- Adicionando a tag <a> com o link desejado -->
-      <a href="https://fresenius.sharepoint.com/sites/Fresenius-Kabi-Intranet-PT" target="_blank"
+      <a href="" target="_blank"
         style="display: block; height: 150px; width: 150px;">
-        <div style="background-image:url('imagens/logo\ fresenius.png'); 
+        <div style="background-image:url(''); 
                         background-size: contain; 
                         background-position: center; 
                         background-repeat: no-repeat; 
