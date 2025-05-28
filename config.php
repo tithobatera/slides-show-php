@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost'; // Endereço do servidor MySQL
-$dbname = 'projeto_fresenius'; // Nome do banco de dados
+$dbname = ''; // Nome do banco de dados
 $username = ''; // Seu usuário do banco de dados
 $password = ''; // Senha em branco, pois o MySQL no XAMPP não tem senha por padrão //INSERIR SENHADA BASE DE DADOS
 
