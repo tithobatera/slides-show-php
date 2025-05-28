@@ -66,19 +66,7 @@ CREATE TABLE `presentation_files` (
 --
 
 INSERT INTO `presentation_files` (`id`, `presentation_id`, `file_path`, `intervalo_slide`, `order_number`) VALUES
-(888, 319, 'uploads/Setembro_amarelo/img2.png', 2, 1),
-(889, 319, 'uploads/Setembro_amarelo/img3.png', 5, 2),
-(890, 320, 'uploads/Outubro_Rosa/img1.png', 2, 1),
-(891, 320, 'uploads/Outubro_Rosa/img4.png', 2, 2),
-(892, 321, 'uploads/Novembro_Azul/img3.png', 5, 1),
-(893, 321, 'uploads/Novembro_Azul/bg_blue.jpg', 2, 2),
-(894, 322, 'uploads/V__deo/video.mp4', 13, 1),
-(895, 323, 'uploads/Teste3/img2.png', 2, 1),
-(896, 324, 'uploads/Teste1/bg_blue.jpg', 2, 1),
-(897, 325, 'uploads/Teste2/impact.webp', 2, 1),
-(898, 326, 'uploads/abc/img4.png', 5, 1),
-(899, 326, 'uploads/abc/logo fresenius2.png', 2, 2),
-(900, 326, 'uploads/abc/img3.png', 2, 3);
+
 
 -- --------------------------------------------------------
 
